@@ -1,0 +1,1 @@
+# sejm-votings-parser
